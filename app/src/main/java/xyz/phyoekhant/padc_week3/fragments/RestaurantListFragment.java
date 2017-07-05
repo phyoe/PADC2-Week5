@@ -64,6 +64,8 @@ public class RestaurantListFragment extends BaseFragment implements LoaderManage
         View rootView = inflater.inflate(R.layout.fragment_restaurant_list, container, false);
         ButterKnife.bind(this, rootView);
 
+        getActivity().setTitle(getString(R.string.title_activity_main));
+
         List<RestaurantVO> restaurantList = RestaurantModel.getInstance().getRestaurantList();
         tvTotalRestaurantCount.setText(restaurantList.size() + " restaurants deliver to you");
 

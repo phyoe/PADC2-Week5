@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/swipe_refresh_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <TextView
+        android:id="@+id/tv_total_restaurant_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/margin_medium_2"
+        android:text="68 restaurants deliver to you"
+        android:textColor="@color/primary_text" />
+
+    <ImageView
+        android:id="@+id/iv_restaurant_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingRight="@dimen/margin_medium_2"
+        android:paddingTop="@dimen/margin_medium_2"
+        android:scaleType="fitStart"
+        android:src="@drawable/ic_restaurant_24dp"
+        android:visibility="visible" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_restaurants"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tv_total_restaurant_count"
+        android:clipToPadding="false"
+        android:scrollbarStyle="outsideOverlay" />
+
+</RelativeLayout>

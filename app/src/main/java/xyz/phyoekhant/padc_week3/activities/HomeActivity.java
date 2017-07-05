@@ -14,6 +14,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import xyz.phyoekhant.padc_week3.R;
 import xyz.phyoekhant.padc_week3.fragments.RestaurantListFragment;
+import xyz.phyoekhant.padc_week3.fragments.RestaurantListMvpFragment;
 
 public class HomeActivity extends BaseActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -51,6 +52,12 @@ public class HomeActivity extends BaseActivity
     private void navigateToRestaurantList() {
         getSupportFragmentManager().beginTransaction()
                 .replace(R.id.fl_container, RestaurantListFragment.newInstance())
+                .commit();
+    }
+
+    private void navigateToRestaurantListMVP() {
+        getSupportFragmentManager().beginTransaction()
+                .replace(R.id.fl_container, RestaurantListMvpFragment.newInstance())
                 .commit();
     }
 
@@ -94,6 +101,10 @@ public class HomeActivity extends BaseActivity
 
         if (id == R.id.nav_restaurant_list) {
             navigateToRestaurantList();
+        }
+
+        if (id == R.id.nav_restaurant_list_mpv) {
+            navigateToRestaurantListMVP();
         }
 
         drawerLayout.closeDrawer(GravityCompat.START);
