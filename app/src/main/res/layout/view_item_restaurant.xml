@@ -1,0 +1,184 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/margin_medium_2"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/hidden_sort"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="hidden_sort" />
+
+        <View
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentTop="true"
+            android:background="@color/soft_gray" />
+
+        <ImageView
+            android:id="@+id/iv_ad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:scaleType="fitStart"
+            android:src="@drawable/is_ad"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/iv_restaurant"
+            android:layout_width="@dimen/img_width"
+            android:layout_height="@dimen/img_width"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:layout_marginRight="@dimen/margin_medium"
+            android:layout_marginTop="@dimen/margin_medium_2"
+            android:src="@drawable/ic_thecoffeebeantealeaf" />
+
+        <ImageView
+            android:id="@+id/iv_new"
+            android:layout_width="@dimen/new_img_width2"
+            android:layout_height="@dimen/new_img_height2"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:layout_marginRight="@dimen/margin_medium"
+            android:layout_marginTop="@dimen/new_img_margin2"
+            android:src="@drawable/ic_new" />
+
+        <TextView
+            android:id="@+id/tv_restaurant_title"
+            style="@style/MyAppTitleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/margin_medium_2"
+            android:layout_marginTop="@dimen/margin_medium_2"
+            android:layout_toRightOf="@id/iv_restaurant"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="The Coffee Bean and Tea Leaf (Tiong Bahru Plaza)"
+            android:textColor="@color/primary_text" />
+
+        <TextView
+            android:id="@+id/tv_tags"
+            style="@style/MyAppGrayText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_restaurant_title"
+            android:layout_toRightOf="@id/iv_restaurant"
+            android:text="Halal, European" />
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            style="@style/customRatingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_tags"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:layout_marginTop="@dimen/margin_small"
+            android:layout_toRightOf="@id/iv_restaurant"
+            android:clickable="false"
+            android:numStars="5"
+            android:rating="2.5"
+            android:stepSize="0.1" />
+
+        <TextView
+            android:id="@+id/tv_total_rating_count"
+            style="@style/MyAppGrayText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_tags"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:layout_marginTop="@dimen/margin_small"
+            android:layout_toRightOf="@id/ratingBar"
+            android:text="(135)" />
+
+        <TextView
+            android:id="@+id/tv_pricey1"
+            style="@style/MyAppPriceyExpensive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/iv_restaurant"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:text="$" />
+
+        <TextView
+            android:id="@+id/tv_pricey2"
+            style="@style/MyAppPriceyCheap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/iv_restaurant"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:layout_toRightOf="@id/tv_pricey1"
+            android:text="$" />
+
+        <TextView
+            android:id="@+id/tv_pricey3"
+            style="@style/MyAppPriceyCheap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/iv_restaurant"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:layout_toRightOf="@id/tv_pricey2"
+            android:text="$" />
+
+        <ImageView
+            android:id="@+id/ic_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ratingBar"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="@dimen/margin_small"
+            android:layout_toRightOf="@id/iv_restaurant"
+            android:src="@drawable/ic_percent_small" />
+
+        <ImageView
+            android:id="@+id/ic_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ratingBar"
+            android:layout_marginRight="@dimen/margin_small"
+            android:layout_toRightOf="@id/ic_1"
+            android:src="@drawable/ic_halal_small" />
+
+        <ImageView
+            android:id="@+id/ic_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ratingBar"
+            android:layout_marginRight="@dimen/margin_medium_2"
+            android:layout_toRightOf="@id/ic_2"
+            android:src="@drawable/ic_file_small" />
+
+        <TextView
+            android:id="@+id/tv_lead_time_in_min"
+            style="@style/MyAppGrayText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/ratingBar"
+            android:layout_marginBottom="@dimen/margin_medium_2"
+            android:layout_marginRight="@dimen/margin_medium_2"
+            android:text="40 min."
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_delivery"
+            style="@style/MyAppGrayText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ratingBar"
+            android:layout_marginBottom="@dimen/margin_medium_2"
+            android:layout_toLeftOf="@id/tv_lead_time_in_min"
+            android:text="delivers in " />
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.1.0_f489852143c069a729eb632cc9a55e9af8b91f9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phyo Khane\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_e54139e7e8ee735086a9cb741b33941dc3e274f7.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_2a6fa53d39f04b157a7b60a8cf4b03d7eec956a0.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_0aa9254611b7430b335b82ebc905ca217ffe50e3.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_c311659355a9b34207e3a8d98b88ae08a2de654e.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_af69888d0ab22c43436696a4e04bffcdd5e52d1b.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_786158125fb6bd1506667921af00fb7ea920d3d4.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_8bb0cf87466b4685cf531f14966159474d6fec11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phyo Khane\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.1.0_8e060e8b58ab7d22c5abd9424a310876a13d33fe.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_48697b148d58dc4de3586574719ffcef2de05c82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phyo Khane\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\okio-1.9.0_c92c53faba5f4f4252f3fa53f473a1b7c20a1006.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_90cca6884838032f8e688a9a36fde4bb598eb38b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phyo Khane\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\glide-3.7.0_0fa3c629ca71ecf1a7c1499664e51acc8d361bf9.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_93307a9d0a4b5be7a79833cad8afa82832a07e75.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_f172b019dad7fa7212b3dd76afee207e8b1976b2.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_3da7b1eba5318b510f0987cd05769fd061c6369d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phyo Khane\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\gson-2.7_f7cd92cd47bb198f1ed87c5f9535466564bf843e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phyo Khane\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_cecfb7530a733ccae2f3bd7755b2138448009c74.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_f8b454aa032a367ee6b0343adafdd58530247559.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phyo Khane\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_f682b2bec9890eac66beeadc068b8839f595ac1e.jar" />
+    </item>
+    <item
+        jar="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_6f5cc3ec8786ebf3f489ef492901497b44da7826.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phyo Khane\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.0-RC1\979305977ca3e5e6339ba77d9bbc805e700317ca\okhttp-3.4.0-RC1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="979305977ca3e5e6339ba77d9bbc805e700317ca">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\okhttp-3.4.0-RC1_9cd8e331fbd04d14edac3dea09bccfc9417ad8b6.jar" />
+    </item>
+    <item
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\PADC2_0\MyGitUpload\PADC2-Week5\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_c14d05d5b3a8e6524746ab30beae91dfdb4ee2c8.jar" />
+    </item>
+
+</items>
